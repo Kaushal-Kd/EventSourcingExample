@@ -34,7 +34,7 @@ This project utilizes **Event Sourcing** and **CQRS** as the core architectural 
 
 Before you start, ensure you have the following installed:
 
-- .NET SDK 6.0 or later
+- .NET SDK 7.0 or later
 - EventStoreDB (either local or via Docker)
 
 ### Installation
