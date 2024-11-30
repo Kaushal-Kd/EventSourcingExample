@@ -1,7 +1,5 @@
 # EventSourcingExample
 
-# EventSourcingExample
-
 ## Description
 
 **EventSourcingExample** is a simple demonstration of Event Sourcing using the EventStore and Command Query Responsibility Segregation (CQRS) patterns, built using **.NET**. The project showcases how these architectural patterns can be implemented to achieve a scalable, maintainable, and highly performant system that handles complex business processes.
